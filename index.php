@@ -6,7 +6,7 @@
 		<div id="contentWrapper">
 			<div>
 				<div>
-					<img src="Custom-Tab-Slider-background.jpg" />
+					<img src="tab-header-2.jpg" />
 				</div>
 				<div class="btn">
 					<div>
