@@ -16,15 +16,15 @@
 						<a href="tabs/Country Profile  1st Page.docx">Our Country</a>
 				    </div>
 				    <div>
-				    	<a href="tabs/investmentopportunity.php">Investment Opportunity</a>
+				    	<a href="investmentopportunity.php">Investment Opportunity</a>
 					</div>
 					<div>
-						<a href="tabs/Visa_form.pdf">Visa Form</a>
+						<a href="visaform.php">Visa Form</a>
 					</div>
 				</div>
 			</div>
 			<div class="gallery">
-				<p>Gallary</p>
+				<p>Gallery</p>
 			</div>
 			<div class="photo" id = "collager">
 				<div class="polaroid">

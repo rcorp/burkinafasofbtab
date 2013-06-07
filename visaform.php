@@ -16,10 +16,10 @@
 						<a href="tabs/Country Profile  1st Page.docx">Our Country</a>
 				    </div>
 				    <div>
-				    	<a href="tabs/investmentopportunity.php">Investment Opportunity</a>
+				    	<a href="investmentopportunity.php">Investment Opportunity</a>
 					</div>
 					<div>
-						<a href="tabs/Visa_form.pdf">Visa Form</a>
+						<a href="visaform.php">Visa Form</a>
 					</div>
 				</div>
 			</div>
@@ -27,12 +27,10 @@
 				<p>Visa Information</p>
 			</div>
 			<div class="visa">
-					<p class="visatime">
-					Visa Timing:</p>
+					<p class="visatime"> Visa Timing:</p>
 					<p class="visatime1">Monday to Friday - Submission 10.30 to 12.30 pm</p>
 					<p class="visatime1">Monday to Friday - Collection   04.00 to 04.30 pm</p>
-					<p class="visatime">
-					Rules and Regulations:</p>
+					<p class="visatime"> Rules and Regulations:</p>
 					<p class="visatime1">Documents required:</p>
 					<p class="visapoint">1. Visa Application form (form issued by Embassy and also available on our website to be submitted in duplicate);</p>
 					<p class="visapoint">2. Valid Passport;</p>
