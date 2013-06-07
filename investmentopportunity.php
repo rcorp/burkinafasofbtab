@@ -76,42 +76,42 @@
 			
 			<div class="investgallery">
 				<div class="gallerycell">
-					<div class="cell1"><a href="www.burkinafasoindia.org"><img src="investimg1.jpg"></a></div>					
+					<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg1.jpg"></a></div>					
 					<div class="cell2">
 						Animal Husbandary
 					</div>		
 				</div>
 
 				<div class="gallerycell">
-					<div class="cell1"><a href="www.burkinafasoindia.org"><img src="investimg2.jpg"></a></div>					
+					<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg2.jpg"></a></div>					
 					<div class="cell2">
 						Agriculture
 					</div>		
 				</div>
 
 				<div class="gallerycell">
-					<div class="cell1"><a href="www.burkinafasoindia.org"><img src="investimg4.jpg"></a></div>					
+					<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg4.jpg"></a></div>					
 					<div class="cell2">
 						Quarrying
 					</div>		
 				</div>
 				
 				<div class="gallerycell">
-					<div class="cell1"><a href="www.burkinafasoindia.org"><img src="investimg3.jpg"></a></div>					
+					<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg3.jpg"></a></div>					
 					<div class="cell2">
 						Gold Mining
 					</div>		
 				</div>
 
 				<div class="gallerycell">
-					<div class="cell1"><a href="www.burkinafasoindia.org"><img src="investimg5.jpg"></a></div>					
+					<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg5.jpg"></a></div>					
 					<div class="cell2">
 						Real Estate
 					</div>		
 				</div>
 
 				<div class="gallerycell">
-					<div class="cell1"><a href="www.burkinafasoindia.org"><img src="investimg6.jpg"></a></div>					
+					<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg6.jpg"></a></div>					
 					<div class="cell2">
 						Industry
 					</div>		
