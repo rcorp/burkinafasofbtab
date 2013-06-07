@@ -10,7 +10,7 @@
 				</div>
 				<div class="btn">
 					<div>
-						<a href="tabs/burkinafasofbtab">Home</a>
+						<a href="index.php">Home</a>
 				    </div>
 				    <div>
 						<a href="tabs/Country Profile  1st Page.docx">Our Country</a>
