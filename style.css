@@ -21,7 +21,7 @@
 			margin-right: 11px;
 			background: #C0262C;
 			margin-left: 10px;
-			width: 220px;
+			width: 172px;
 			height: 28px;
 			text-align: center;
 			vertical-align: middle;
@@ -123,4 +123,88 @@
 		.photo {
 			margin-top: 10px;
 		}
+		.invest {
+			margin-top: 20px;
+			height: auto;
+			width: 694px;
+			padding-left: 40px;
+		}
+		.investcontent {
+			font-size: 18px;
+			padding-bottom: 5px;
+		}
+
+		.investgallery {
+			height: 235px;
+			width: 765px;
+			margin-top: 10px;
+			margin-left: 10px;
+		}
 		
+		.gallerycell {
+			width: 235px;
+			height: 95px;
+			float: left;
+			padding-left: 15px;
+			padding-top: 5px;
+			vertical-align: middle;
+		}
+
+		.cell1 {
+float: left;
+padding-left: 3px;
+padding-top: 1px;
+		}
+
+		.cell2 {
+width: 110px;
+height: auto;
+float: left;
+margin-left: 14px;
+position: relative;
+top: 26px;
+		}
+		#investcontent {
+			font-family: open sans;
+			text-align: justify;
+			font-weight: normal;
+		}
+
+		.visa {
+
+		}
+
+		.visatime {
+			font-size: 25px;
+			padding-left: 25px;
+		}
+		.visatime1 {
+			font-size: 19px;
+			font-family: open serif;
+			padding-left: 115px;
+			padding-bottom: 3px;
+		}
+
+		.visapoint {
+			font-family: open serif;
+			font-size: 17px;
+			padding-bottom: 3px;
+			padding-left: 180px;
+		}
+		.fees {
+			float: left;
+			width: 350px;
+			height: auto;
+		}
+		.feespoint {
+			font-family: open serif;
+			font-size: 17px;
+			padding-bottom: 2px;
+			padding-left: 110px;
+			}
+		.feespoint1 {
+			font-size: 19px;
+			font-family: open serif;
+			padding-left: 73px;
+			padding-bottom: 3px
+		}

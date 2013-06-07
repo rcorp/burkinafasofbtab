@@ -6,22 +6,25 @@
 		<div id="contentWrapper">
 			<div>
 				<div>
-					<img src="tab-header-2.jpg" />
+					<img src="tab-header-3.jpg" />
 				</div>
 				<div class="btn">
 					<div>
+						<a href="tabs/burkinafasofbtab">Home</a>
+				    </div>
+				    <div>
 						<a href="tabs/Country Profile  1st Page.docx">Our Country</a>
 				    </div>
 				    <div>
-				    	<a href="tabs/INVESTMENT OPPORTUNITIES.docx">Investment Opportunity</a>
+				    	<a href="tabs/investmentopportunity.php">Investment Opportunity</a>
 					</div>
 					<div>
-						<a href="tabs/Visa_form.pdf">Download Visa Form</a>
+						<a href="tabs/Visa_form.pdf">Visa Form</a>
 					</div>
 				</div>
 			</div>
 			<div class="gallery">
-				<p>Gallery</p>
+				<p>Gallary</p>
 			</div>
 			<div class="photo" id = "collager">
 				<div class="polaroid">
