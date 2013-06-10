@@ -7,10 +7,14 @@
     font-style: italic;
 }
 
+body {
+    height: 1300px;
+    overflow-y: hidden;
+}
+
 #contentWrapper {
     width: 780px;
     overflow-x: hidden;
-    height: 1300px;
 
 }
 
