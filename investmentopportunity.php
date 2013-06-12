@@ -90,7 +90,7 @@
 					</div>
 
 					<div class="gallerycell">
-						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investenergy.jpg"></a></div>					
+						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investenergy.JPG"></a></div>					
 						<div class="cell2">
 							Energy Sector
 						</div>		
