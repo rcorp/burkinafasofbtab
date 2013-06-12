@@ -9,7 +9,7 @@
 
 body {
     height: 1300px;
-    overflow-y: hidden;
+    /*overflow-y: hidden;*/
 }
 
 #contentWrapper {
