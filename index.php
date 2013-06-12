@@ -14,7 +14,7 @@
 							<a href="index.php">Home</a>
 					    </div>
 					    <div>
-							<a href="tabs/Country Profile  1st Page.docx">Our Country</a>
+							<a href="ourcountry.php">Our Country</a>
 					    </div>
 					    <div>
 					    	<a href="investmentopportunity.php">Investment Opportunity</a>

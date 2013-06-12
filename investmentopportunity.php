@@ -14,7 +14,7 @@
 							<a href="index.php">Home</a>
 					    </div>
 					    <div>
-							<a href="tabs/Country Profile  1st Page.docx">Our Country</a>
+							<a href="ourcountry.php">Our Country</a>
 					    </div>
 					    <div>
 					    	<a href="investmentopportunity.php">Investment Opportunity</a>
@@ -29,46 +29,44 @@
 				</div>
 				<div class="invest">
 						<div class = "investcontent">
-							<p id="investcontent">1. A political and institutional stability based on an ongoing quest for social dialogue and political consensus.</p>
+							<p id="investcontent">Burkina Faso is the 4th largest market in the ECOWAS and has the third highest GDP growth rate in the ECOWAS community. Its location makes it a gateway into the markets of West Africa. Listed below are some of the reasons why Burkina Faso is the prime choice for investors.</p>
+						</div>
+						<div class = "investcontent">
+							<p id="investcontent">1. A stable political environment</p>
 						</div>
 						
 						<div class = "investcontent">
-							<p id="investcontent">2. A stable and sustainable healthy macroeconomic context.</p>
+							<p id="investcontent">2. A stable and sustainable healthy macro economy</p>
 						</div>
 
 						<div class = "investcontent">
-							<p id="investcontent">3. A firm choice for a free-market economy opened to foreign investments.</p>
+							<p id="investcontent">3. A firm policy related to protect, secure and promote investments</p>
 						</div>
 
 						<div class = "investcontent">
-							<p id="investcontent">4. A favourable, innovative and especially attractive legal and regulatory framework, with a firm policy relating to the protection, the security and the promotion of investments.</p>
+							<p id="investcontent">4. Freely convertible, common currency with UEMOA with fixed parity to the EURO</p>
 						</div>
 
 						<div class = "investcontent">
-							<p id="investcontent">5. An area of monetary stability, with a common currency within UEMOA, freely convertible with a fixed parity in relation to the Euro.</p>
+							<p id="investcontent">5. A common border with 6 ECOWAS and 5 UEMOA states</p>
 						</div>
 
 						<div class = "investcontent">
-							<p id="investcontent">6. A young, dynamic, enterprising population, as well as an abundant and hard-working workforce.</p>
+							<p id="investcontent">6. A potential market of 73 million people from UEMOA Countries and over 280 million from ECOWAS countries</p>
 						</div>
 						
 						<div class = "investcontent">
-							<p id="investcontent">7. A central geographical location in the heart of West Africa, ECOWAS and UEMOA states. A common border with six States of ECOWAS and five States of UEMOA. Such a position enables the country to have access to a potential market of 73 million inhabitants from UEMOA States and over 280 million inhabitants in ECOWAS States.</p>
+							<p id="investcontent">7. A young dynamic work force</p>
 						</div>
 						
 						<div class = "investcontent">
-							<p id="investcontent">8. A key legal and judicial environment, a harmonised business law that is continuously improved within the framework of the Organisation for the Harmonization of Business Law in Africa (OHADA).</p>
+							<p id="investcontent">8. A good international rail and road network and an international transit system </p>
 						</div>
 						
 						<div class = "investcontent">
-							<p id="investcontent">9. A good international road network, with a performing international transit system which enables Burkina Faso to be a hub for UEMOA and ECOWAS states.</p>
-						</div>
-					
-						<div class = "investcontent">
-							<p id="investcontent">10. Significant economic potential which is not yet sufficiently used in the areas of agriculture, mining, industries, tourism and services.</p>
+							<p id="investcontent">9. Harmonized business law that is continuously improved within the framework of the Organisation for the Harmonization of Business law in Africa (OHADA)</p>
 						</div>
 									
-					
 					</div>
 				
 				<div class="regstration">
@@ -76,6 +74,14 @@
 				</div>
 				
 				<div class="investgallery">
+					
+					<div class="gallerycell">
+						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg2.jpg"></a></div>					
+						<div class="cell2">
+							Agriculture
+						</div>		
+					</div>
+					
 					<div class="gallerycell">
 						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg1.jpg"></a></div>					
 						<div class="cell2">
@@ -84,23 +90,30 @@
 					</div>
 
 					<div class="gallerycell">
-						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg2.jpg"></a></div>					
+						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investenergy.jpg"></a></div>					
 						<div class="cell2">
-							Agriculture
-						</div>		
-					</div>
-
-					<div class="gallerycell">
-						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg4.jpg"></a></div>					
-						<div class="cell2">
-							Quarrying
+							Energy Sector
 						</div>		
 					</div>
 					
 					<div class="gallerycell">
 						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg3.jpg"></a></div>					
 						<div class="cell2">
-							Gold Mining
+							Mining & Quarrying
+						</div>		
+					</div>
+
+					<div class="gallerycell">
+						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investict.jpg"></a></div>					
+						<div class="cell2">
+							ICT
+						</div>		
+					</div>
+
+					<div class="gallerycell">
+						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg6.jpg"></a></div>					
+						<div class="cell2">
+							Industrial Sector
 						</div>		
 					</div>
 
@@ -112,13 +125,22 @@
 					</div>
 
 					<div class="gallerycell">
-						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investimg6.jpg"></a></div>					
+						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investtransport.jpg"></a></div>					
 						<div class="cell2">
-							Industry
+							Transport
 						</div>		
 					</div>
+
+					<div class="gallerycell">
+						<div class="cell1"><a href="http://www.burkinafasoindia.org"><img src="investtourism.jpg"></a></div>					
+						<div class="cell2">
+							Tourism
+						</div>		
+					</div>
+
+					
 				</div>
-				<div style="clear:both;"></div>			
+				<div style="clear:both;"></br></div>			
 				
 				<div style="background: #006637;height: 31px;">
 					<p style="float: right;font-size: 19px;color: white;margin-right: 7px;">Designed by Ramanan Corporation</p>
