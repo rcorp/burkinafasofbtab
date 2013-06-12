@@ -61,7 +61,7 @@
 					</div>
 					<div class="btn">
 						<div style="margin-left: 565px; margin-bottom: 10px;">
-							<a href="tabs/visa_form.pdf">Download Visa Form</a>
+							<a href="tabs/Visa_form.pdf">Download Visa Form</a>
 						</div>
 					</div></br>
 				
