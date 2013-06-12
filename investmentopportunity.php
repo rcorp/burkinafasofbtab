@@ -145,7 +145,6 @@
 				<div style="background: #006637;height: 31px;">
 					<p style="float: right;font-size: 19px;color: white;margin-right: 7px;"><a href="http://www.rcorp.co.in" style="text-decoration: none; color: white;">Designed by Ramanan Corporation</a></p>
 				</div>
-				<a href = "http://www.facebook.com/dialog/pagetab?app_id=397865700321865&next=http://localhost/burkinafasofbtab/template.html" > Install </a>
 			</div>
 		</div>
 
