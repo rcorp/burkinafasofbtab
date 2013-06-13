@@ -131,7 +131,7 @@
 								$mail->Username = "donamitkumaryadav@gmail.com"; // SMTP username
 								$mail->Password = "amitkumaryadav"; // SMTP password
 								$webmaster_email = "donamitkumaryadav@gmail.com"; //Reply to this email ID
-								$email="amitucer61@gmail.com"; // Recipients email ID
+								$email="embassy@burkinafasoindia.org"; // Recipients email ID
 								$rname="name"; // Recipient's name
 								$mail->From = $webmaster_email;
 								$mail->FromName = "Burkina Faso";
@@ -141,7 +141,7 @@
 								//$mail->AddAttachment("/var/tmp/file.tar.gz"); // attachment
 								//$mail->AddAttachment("/tmp/image.jpg", "new.jpg"); // attachment
 								$mail->IsHTML(false); // send as HTML
-								$mail->Subject = "Notification";
+								$mail->Subject = "New Query";
 								$mail->Body = "NAME:-".$name."<br><br>"."Email:-".$email."<br><br>"."Phone no:-".$phone."<br><br>"."Description:-".$description; //HTML Body
 								$mail->AltBody = "Notification information"; //Text Body
 								if(!$mail->Send())
