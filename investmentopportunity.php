@@ -142,8 +142,8 @@
 				</div>
 				<div style="clear:both;"></div>			
 				
-				<div style="background: #006637;height: 31px;">
-					<p style="float: right;font-size: 19px;color: white;margin-right: 7px;"><a href="http://www.rcorp.co.in" style="text-decoration: none; color: white;">Designed by Ramanan Corporation</a></p>
+				<div class="footerbar">
+					<p class="footerlink"><a href="http://www.rcorp.co.in" style="text-decoration: none; color: white;">Designed by Ramanan Corporation</a></p>
 				</div>
 			</div>
 		</div>

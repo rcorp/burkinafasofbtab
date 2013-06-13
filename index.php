@@ -27,7 +27,7 @@
 				<div class="gallery">
 					<p>Gallery</p>
 				</div>
-				<div class="photo" id = "collager">
+				<div class="photo" id = "collager"></br>
 					<div class="polaroid">
 						<img src="images/Burkina-Faso-The-national-art.jpg">
 						<div class = "caption">
@@ -76,7 +76,7 @@
 							<p>Waterfalls at Karfiguela Burkina Faso</p>
 						</div>
 					</div>
-				</div>
+				</div></br>
 				<div class="regstration">
 					<p>Contact Us</p>
 				</div>
@@ -99,13 +99,12 @@
 								</div>
 							</td>	
 							<td>
-								<div>
+								<div style="padding-top: 31px;">
 									Description:<br>
-									<textarea rows="10" cols="30" NAME="description">
-									</textarea>
+									<textarea rows="10" cols="30" NAME="description" style="width:250px; resize:none; overflow-y:scroll;"></textarea>
 								</div>
 								<div>
-									<input type="submit" name="submit" value="submit" style="width: 78px;float: right;position: relative;top: 30px;border-radius: 5px;height: 26px;">
+									<input type="submit" name="submit" value="Submit" style="width: 78px;float: right;position: relative;top: 30px;border-radius: 5px;height: 26px;">
 								</div>
 							</td>
 						</tr>
@@ -157,8 +156,8 @@
 					?>
 					
 				
-				<div style="background: #006637;height: 31px;">
-					<p style="float: right;font-size: 19px;color: white;margin-right: 7px;"><a href="http://www.rcorp.co.in" style="text-decoration: none; color: white;">Designed by Ramanan Corporation</a></p>
+				<div class="footerbar">
+					<p class="footerlink"><a href="http://www.rcorp.co.in" style="text-decoration: none; color: white;">Designed by Ramanan Corporation</a></p>
 				</div>
 				<!-- <a href = "http://www.facebook.com/dialog/pagetab?app_id=397865700321865&next=http://localhost/burkinafasofbtab/template.html" > Install </a> -->
 			</div>
@@ -181,7 +180,6 @@
 		    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js'; 
 		    document.getElementById('fb-root').appendChild(e); }()); 
 		</script>
-
 		<script type="text/javascript" src="build/dojo/dojo.js" data-dojo-config="async: 1, isDebug: 0"></script>
 		<script type="text/javascript">
 			require(['dijitx/widget/Collager', 'dojo/domReady!'], function (Collager){
