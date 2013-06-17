@@ -8,8 +8,8 @@
 }
 
 body {
-    height: 1000px;
-    overflow-y: hidden;
+    height: 1240px;
+    /*overflow-y: hidden;*/
 }
 
 #contentWrapper {
