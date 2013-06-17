@@ -8,7 +8,7 @@
 }
 
 body {
-    height: auto;
+    height: 1000px;
     overflow-y: hidden;
 }
 
@@ -31,8 +31,7 @@ body {
 	display: inline-block;
 	margin-right: 11px;
 	background: #C0262C;
-	margin-left: 10px;
-	width: 172px;
+	width: 142px;
 	height: 28px;
 	text-align: center;
 	vertical-align: middle;
@@ -180,6 +179,13 @@ body {
 	
 	text-align: justify;
 	
+}
+
+#investheader {
+	font-weight: bold;
+	font-size: 18px;
+	font-style: italic;
+	margin-left: -15px;
 }
 
 .visatime {

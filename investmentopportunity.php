@@ -20,6 +20,9 @@
 					    	<a href="investmentopportunity.php">Investment Opportunity</a>
 						</div>
 						<div>
+							<a href="culture.php">Culture</a>
+					    </div>
+						<div>
 							<a href="visaform.php">Visa Form</a>
 						</div>
 					</div>

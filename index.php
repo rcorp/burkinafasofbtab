@@ -20,6 +20,9 @@
 					    	<a href="investmentopportunity.php">Investment Opportunity</a>
 						</div>
 						<div>
+							<a href="culture.php">Culture</a>
+					    </div>
+						<div>
 							<a href="visaform.php">Visa Form</a>
 						</div>
 					</div>
@@ -154,8 +157,6 @@
 								}
 							}
 					?>
-					
-				
 				<div class="footerbar">
 					<p class="footerlink"><a href="http://www.rcorp.co.in" style="text-decoration: none; color: white;">Designed by Ramanan Corporation</a></p>
 				</div>
